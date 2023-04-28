@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chong Wang / Professor "
+title                    : "Chong Wang  "
 title_separator          : "-"
 name                     : &name "Chong Wang"
 description              : &description "Professor in Statistics at Iowa State University."
-url                      : https://ChongWang.github.io 
+url                      : https://ChongWang.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChongWangSTAT/ChongWang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
